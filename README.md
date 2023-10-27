@@ -4,6 +4,6 @@
 Working in **Petrus Technologies** as _inten_
 <img src="https://petrustechnologies.com/wp-content/uploads/2022/08/color-logo.png">
 
-<h2>Project Done</h3>
+<h2>Project Done</h2>
 * Sri Elumalaiyan Sago Factory
 * Mech-Ranger
