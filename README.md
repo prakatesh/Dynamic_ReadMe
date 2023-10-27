@@ -1,6 +1,8 @@
 
-## This is Prakatesh
+<b>This is Prakatesh</b>
+
 Working in **Petrus Technologies** as _inten_
-### Project Done
+
+<b>Project Done</b>
 * Sri Elumalaiyan Sago Factory
 * Mech-Ranger
